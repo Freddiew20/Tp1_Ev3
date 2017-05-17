@@ -19,7 +19,7 @@ public class MathTest {
     @Test
     public void testNegativePositiveAddition() {
         math = new Math(-7, 14);
-        Assert.assertEquals(71, math.add());
+        Assert.assertEquals(7, math.add());
     }
 
 
