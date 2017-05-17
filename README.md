@@ -30,7 +30,7 @@ Trabajo práctico de tests en proyectos java
          $ git clone https://github.com/Freddiew20/Tp_Ev3.git 
          $ cd Tp_Ev3
 
-   #Now you execute this to compile the JunitTestSuite.java from our project, especifying the path where your junit version is, instead of the path that i'm showing (actually this is the path to the folder where i saved my junit.jar) Use of junit version 4.8.1 is stongly recomended due to compatibillity problems with the following versions which will have extra dependencies that will be needed for the project to execute in the next step.
+   #Now you execute this to compile the JunitTestSuite.java from our project, especifying the path where your junit version is, instead of the path that i'm showing (actually this is the path to the folder where i saved my junit.jar) Use of junit version 4.8.1 is stongly recomended due to compatibillity problems with the following versions which will have extra dependencies that will be required for the project to execute in the next step.
    
         $ javac -cp ~/misjars/junit/*:. JunitTestSuite.java 
        
