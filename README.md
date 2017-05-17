@@ -16,11 +16,11 @@ Trabajo práctico de tests en proyectos java
    
    #Debe devolvernos este resultado, teniendo en cuenta las modificaciones hechas a los test:
    
-         alumnado@A121PC08:~/Escritorio/git$ java -cp ~/misjars/junit/*:. org.junit.runner.JUnitCore JunitTestSuite
-         JUnit version 4.8.1
-         .....
-         Time: 0,007
+        alumnado@A121PC08:~/Escritorio/git$ java -cp ~/misjars/junit/*:. org.junit.runner.JUnitCore JunitTestSuite
+        JUnit version 4.8.1
+        .....
+        Time: 0,007
 
-         OK (5 tests)
+        OK (5 tests)
 
 
