@@ -1,4 +1,4 @@
-# Tp_Ev3
+# Tp1_Ev3
 Trabajo práctico de tests en proyectos java
 
    #En primer lugar clonar el proyecto y situarse en la carpeta con los comandos:
