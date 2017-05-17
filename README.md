@@ -1,7 +1,7 @@
 # Tp1_Ev3
 Trabajo práctico de tests en proyectos java
 
-   # En primer lugar clonar el proyecto y situarse en la carpeta con los comandos:
+   ### En primer lugar clonar el proyecto y situarse en la carpeta con los comandos:
    
          $ git clone https://github.com/Freddiew20/Tp_Ev3.git 
          $ cd Tp_Ev3
