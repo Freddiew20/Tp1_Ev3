@@ -3,8 +3,8 @@ Trabajo práctico de tests en proyectos java
 
    ### En primer lugar clonar el proyecto y situarse en la carpeta con los comandos:
    
-         $ git clone https://github.com/Freddiew20/Tp_Ev3.git 
-         $ cd Tp_Ev3
+         $ git clone https://github.com/Freddiew20/Tp1_Ev3.git 
+         $ cd Tp1_Ev3
 
    ### Ejecutamos este comando para compilar JunitTestSuite.java del proyecto, especificando la ruta en la que se encuentra el .jar de junit. (Se aconseja versión 4.8.1 para evitar problemas de compatibilidad y falta de dependencias).
    
@@ -27,8 +27,8 @@ Trabajo práctico de tests en proyectos java
 
    ### In the first place you should clone the project and get in the directory where the project is with the commands:
    
-         $ git clone https://github.com/Freddiew20/Tp_Ev3.git 
-         $ cd Tp_Ev3
+         $ git clone https://github.com/Freddiew20/Tp1_Ev3.git 
+         $ cd Tp1_Ev3
 
    ### Now you execute this to compile the JunitTestSuite.java from our project, especifying the path where your junit version is, instead of the path that i'm showing (actually this is the path to the folder where i saved my junit.jar) Use of junit version 4.8.1 is stongly recomended due to compatibillity problems with the following versions which will have extra dependencies that will be required for the project to execute in the next step.
    
